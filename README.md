@@ -9,4 +9,4 @@ How much can I learn?
 [This is something new and cool !]( https://guides.github.com/features/mastering-markdown/)
 
 
-Resuming this worl... So, why not? "Hello world, again !"
+Resuming this world... So, why not? "Hello world, again !"
